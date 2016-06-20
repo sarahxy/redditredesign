@@ -9,16 +9,16 @@ We completely got rid of the sidebar in the original website because the sidebar
 We kept the same calming but business-like blue of the original Reddit. The font is “Dosis”, which adds a modern feel.
 
 ## List / Home View
-##### Anita Chan (index.html)
-The top post on the index.html page is the highest trending and most recent in the past hour, so that users can find hot and new information quickly. The rest of the posts below are less clumped and more spread out and easily distinguishable through the use of boxes. We displayed the title and upvotes more prominently, and the comments and share buttons are off to the side where they are more easily clicked than the small text buttons used in the original site.
+##### Anita Chan
+The top post on the **index.html** page is the highest trending and most recent in the past hour, so that users can find hot and new information quickly. The rest of the posts below are less clumped and more spread out and easily distinguishable through the use of boxes. We displayed the title and upvotes more prominently, and the comments and share buttons are off to the side where they are more easily clicked than the small text buttons used in the original site.
 
 
 ## Thread View
 ##### Cj Van
-UNFINISHED: The original plan for the list.html page was to have the same nested format, but have previews of comments instead of everything openly displayed, so that the audience of the page could quickly and easily browse through comments and only open threads they were interested in reading, instead of spending a ton of time simply scrolling.
+UNFINISHED: The original plan for the **item.html** page was to have the same nested format, but have previews of comments instead of everything openly displayed, so that the audience of the page could quickly and easily browse through comments and only open threads they were interested in reading, instead of spending a ton of time simply scrolling.
 
 
 ## Search View
 ##### Sarah Huang
-The search bar on the item.html page is the most prominent feature, so it is centered at the very top. The page displayed shows a generated list of results for the search “Star Wars”, and with the use of color and spacing, information -- like the title and the upvotes, as well as the subreddit -- are very quickly accessible to the eye. The search results are very text-heavy as opposed to image-heavy.
+The search bar on the **list.html** page is the most prominent feature, so it is centered at the very top. The page displayed shows a generated list of results for the search “Star Wars”, and with the use of color and spacing, information -- like the title and the upvotes, as well as the subreddit -- are very quickly accessible to the eye. The search results are very text-heavy as opposed to image-heavy.
 
